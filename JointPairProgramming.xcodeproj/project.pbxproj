@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B0FF7192AD6B6E600D4491B /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0FF7182AD6B6E600D4491B /* MapView.swift */; };
 		79715D842AD69BA200F40047 /* JointPairProgrammingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715D832AD69BA200F40047 /* JointPairProgrammingApp.swift */; };
 		79715D862AD69BA200F40047 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715D852AD69BA200F40047 /* ContentView.swift */; };
 		79715D882AD69BA300F40047 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79715D872AD69BA300F40047 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B0FF7182AD6B6E600D4491B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		79715D802AD69BA200F40047 /* JointPairProgramming.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JointPairProgramming.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79715D832AD69BA200F40047 /* JointPairProgrammingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JointPairProgrammingApp.swift; sourceTree = "<group>"; };
 		79715D852AD69BA200F40047 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 			children = (
 				79715D832AD69BA200F40047 /* JointPairProgrammingApp.swift */,
 				79715D852AD69BA200F40047 /* ContentView.swift */,
+				5B0FF7182AD6B6E600D4491B /* MapView.swift */,
 				79715D872AD69BA300F40047 /* Assets.xcassets */,
 				79715D892AD69BA300F40047 /* Preview Content */,
 				79715DAD2AD6A89900F40047 /* CircleImage.swift */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79715D862AD69BA200F40047 /* ContentView.swift in Sources */,
+				5B0FF7192AD6B6E600D4491B /* MapView.swift in Sources */,
 				79715D842AD69BA200F40047 /* JointPairProgrammingApp.swift in Sources */,
 				79715DAE2AD6A89900F40047 /* CircleImage.swift in Sources */,
 			);
