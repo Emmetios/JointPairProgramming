@@ -14,6 +14,7 @@
 		79715D952AD69BA300F40047 /* JointPairProgrammingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715D942AD69BA300F40047 /* JointPairProgrammingTests.swift */; };
 		79715D9F2AD69BA300F40047 /* JointPairProgrammingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715D9E2AD69BA300F40047 /* JointPairProgrammingUITests.swift */; };
 		79715DA12AD69BA300F40047 /* JointPairProgrammingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715DA02AD69BA300F40047 /* JointPairProgrammingUITestsLaunchTests.swift */; };
+		79715DAE2AD6A89900F40047 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79715DAD2AD6A89900F40047 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		79715D9A2AD69BA300F40047 /* JointPairProgrammingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JointPairProgrammingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79715D9E2AD69BA300F40047 /* JointPairProgrammingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JointPairProgrammingUITests.swift; sourceTree = "<group>"; };
 		79715DA02AD69BA300F40047 /* JointPairProgrammingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JointPairProgrammingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		79715DAD2AD6A89900F40047 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				79715D852AD69BA200F40047 /* ContentView.swift */,
 				79715D872AD69BA300F40047 /* Assets.xcassets */,
 				79715D892AD69BA300F40047 /* Preview Content */,
+				79715DAD2AD6A89900F40047 /* CircleImage.swift */,
 			);
 			path = JointPairProgramming;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				79715D862AD69BA200F40047 /* ContentView.swift in Sources */,
 				79715D842AD69BA200F40047 /* JointPairProgrammingApp.swift in Sources */,
+				79715DAE2AD6A89900F40047 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
